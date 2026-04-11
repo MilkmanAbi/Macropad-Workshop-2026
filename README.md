@@ -154,3 +154,7 @@ You came in thinking:
 You leave thinking:
 
 “Small... But big in personality... Eh.” 😄✨
+
+---
+
+Credits to Organisers of 2025 Macropad Workshop and Jerick Seng
