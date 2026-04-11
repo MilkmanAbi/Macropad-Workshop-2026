@@ -84,6 +84,8 @@ def blink_led(color, count, on_s=0.12, off_s=0.10):
 # Platforms cycle with LONG press of B1+B2 while on the comms layer.
 # 0 = Teams (2 blinks), 1 = Zoom (3 blinks), 2 = Discord (4 blinks)
 
+# MilkmanAbi: FUCK. I genuinely dunno if there's a bug here or nah, hn. Idk, just test later OwO
+
 COMMS_LAYER_NAME = "Communication"
 COMMS_PLATFORMS  = [2, 3, 4]
 _comms_platform_idx = 0
