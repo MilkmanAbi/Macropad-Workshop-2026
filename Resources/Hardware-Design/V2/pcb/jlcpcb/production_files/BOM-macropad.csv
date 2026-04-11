@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC,Quantity
+SW_SPST,SW1,SW_Cherry_MX_1.00u_PCB,,1
+SW_SPST,SW2,SW_Cherry_MX_1.00u_PCB,,1
+SW_SPST,SW3,SW_Cherry_MX_1.00u_PCB,,1
+RP2040-Zero,RZ1,RP2040-Zero,,1
